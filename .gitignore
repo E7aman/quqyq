@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+node_modules/
+.venv/
+db.sqlite3
+frontend/dist/
+backend/data/
+
+venv/
+staticfiles/
+test_out.txt
